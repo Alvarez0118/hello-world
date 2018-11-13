@@ -7,7 +7,7 @@
     1. テニス
     1. フートバール
 
-![Mt. Fuji](/富士山.jpg)
+![Mt. Fuji](hello-world-master/富士山.jpg)
 
 **Things I Do At Home** | **Things I Do At School**
 ------------------------|---------------------------
