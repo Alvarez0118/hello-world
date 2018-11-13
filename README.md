@@ -1,7 +1,13 @@
 # hello-world
-**tutorial homework**
-I am highly stressed and very busy. I like my dog and I like learning Japanese. 
-私の名前はアルバレズ恕和です。
+##**tutorial homework**
+* I am highly stressed and very busy. I like my dog and I like learning Japanese. 
+* 私の名前はアルバレズ恕和です。
+####スポーツが好きです。
+    1. スノーボード
+    1. テニス
+    1. フートバール
+
+![Mt. Fuji](/富士山.jpg)
 
 **Things I Do At Home** | **Things I Do At School**
 ------------------------|---------------------------
